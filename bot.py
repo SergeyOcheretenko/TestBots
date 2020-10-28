@@ -1,5 +1,5 @@
 import telebot as tb
-token = '1341808355:AAEWk536HEX4k6SyfvnyxyKtfsdWGI8lko4'
+token = '***'
 
 bot = tb.TeleBot(token)
 
