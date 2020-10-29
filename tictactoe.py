@@ -1,6 +1,6 @@
 import telebot as tb
 
-token =  '1367091446:AAEmKjUyf8LpfNVxtCf3XMmTHoffKrI3hRU'
+token =  '***'
 bot = tb.TeleBot(token)
 
 array = ['*', '*', '*', '*', '*', '*', '*', '*', '*']
